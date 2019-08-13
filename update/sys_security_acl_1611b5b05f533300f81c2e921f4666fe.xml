@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_test5_ds</description>
+        <name>sn_test5_ds</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 20:20:56</sys_created_on>
+        <sys_id>1611b5b05f533300f81c2e921f4666fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_test5_ds</sys_name>
+        <sys_package display_value="test5" source="sn_test5">5e5071705f533300f81c2e921f466693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test5">5e5071705f533300f81c2e921f466693</sys_scope>
+        <sys_update_name>sys_security_acl_1611b5b05f533300f81c2e921f4666fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 20:20:56</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
