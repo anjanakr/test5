@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test3">973532955f933300a7072e921f466637</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>test3s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_test5_test3</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_test5.test3_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-08-15 14:35:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db3532955f933300a7072e921f46663a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test3s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test5" source="sn_test5">5e5071705f533300f81c2e921f466693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test5">5e5071705f533300f81c2e921f466693</sys_scope>
+        <sys_update_name>sys_app_module_db3532955f933300a7072e921f46663a</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-08-15 14:35:37</sys_updated_on>
+        <timeline_page/>
+        <title>test3s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
